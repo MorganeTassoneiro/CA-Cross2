@@ -1,0 +1,33 @@
+
+
+* {
+    font-family: "Sofia", sans-serif;
+    }
+     
+    body {
+    background: #e4b5dc;
+    color: #000000;
+    margin-top: 10px;
+    }
+     
+    .container {
+    display: block;
+    width: 300;
+    margin: 5% auto;
+    }
+     
+    ul {
+    margin: 0;
+    padding: 0;
+    }
+     
+    button{
+    background-color: #b300c6;
+    color: white;
+    }
+     
+    button:hover{
+    box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.747), 0 17px 50px 0 rgba(0, 0, 0, 0.539);
+    }
+ 
+ 
